@@ -16,15 +16,11 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
-‘Twas brillig, and the slithy toves
-
-  Did gyre and gimble in the wabe;
-
-All mimsy were the borogoves,
-
- And the mome raths outgrabe.
-   
-“Beware the Jabberwock, my son 
+‘Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe;  
+All mimsy were the borogoves,  
+And the mome raths outgrabe.  
+“Beware the Jabberwock, my son  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -35,38 +31,23 @@ All mimsy were the borogoves,
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
 
-Before man came to blow it right
+Before man came to blow it right  
+The wind once blew itself untaught,  
+And did its loudest day and night  
+In any rough place where it caught.  
 
-The wind once blew itself untaught,
+ Man came to tell it what was wrong:  
+It hadn’t found the place to blow;  
+It blew too hard—the aim was song.  
+And listen—how it ought to go!  
 
-And did its loudest day and night
+He took a little in his mouth,  
+And held it long enough for north  
+To be converted into south,  
+And then by measure blew it forth.  
 
-In any rough place where it caught.
-
- 
-Man came to tell it what was wrong:
-
-It hadn’t found the place to blow;
-
-It blew too hard—the aim was song.
-
-And listen—how it ought to go!
-
- 
-He took a little in his mouth,
-
-And held it long enough for north
-
-To be converted into south,
-
-And then by measure blew it forth.
-
- 
-By measure. It was word and note,
-
-The wind the wind had meant to be—
-
-A little through the lips and throat.
-
-The aim was song—the wind could see.
+ By measure. It was word and note,  
+The wind the wind had meant to be—  
+A little through the lips and throat.  
+The aim was song—the wind could see.  
      
